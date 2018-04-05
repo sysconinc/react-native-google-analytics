@@ -20,5 +20,8 @@
     "google",
     "experiment",
     "variant"
-  ]
+  ],
+  "dependencies": {
+    "fetch-everywhere": "^1.0.5"
+  }
 }
